@@ -7,7 +7,7 @@
 
 |Date|First Author|Title|Code|Conference/Journal|Representation|
 |---|---|---|---|---|---|
-|2021/01/01|Dongyu Xue|Analyzing Learned Molecular Representations for Property Prediction (X-MOL)|[paddle](https://github.com/bm2-lab/X-MOL)| [biorxiv](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2)|string|
+|2021/01/01|Dongyu Xue|X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis|[paddle](https://github.com/bm2-lab/X-MOL)| [biorxiv](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2)|string|
 |2020/10/19|Seyone Chithrananda|ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction|[pytorch](https://github.com/seyonechithrananda/bert-loves-chemistry)|[arxiv](https://arxiv.org/abs/2010.09885)|string|
 |2021/06/17|Jinhua Zhu|Dual-view Molecule Pretraining|NA|[arxiv](https://arxiv.org/abs/2106.10234)|string,graph|
 |2019/05/29|Weihua Hu|Strategies for Pre-training Graph Neural Networks|[pytorch](https://github.com/snap-stanford/pretrain-gnns/),[dgl-life](https://lifesci.dgl.ai/api/model.pretrain.html)|[ICLR2020](https://arxiv.org/abs/1905.12265)|graph|
