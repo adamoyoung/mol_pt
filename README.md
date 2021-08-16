@@ -1,9 +1,5 @@
 # Pretrained models for representing molecules
 
-**Take-home message: .**
-
-> Some recent side evidence: 
-
 
 |Date|First Author|Title|Code|Conference/Journal|Representation|
 |---|---|---|---|---|---|
@@ -15,4 +11,6 @@
 |2020/10/18|HyunSeobKim|A Merged Molecular Representation Learning (Chem-BERT)|[pytorch](https://github.com/HyunSeobKim/CHEM-BERT)|NA|string|
 |2020/02/19|Łukasz Maziarka|Molecule Attention Transformer|[pytorch](https://github.com/ardigen/MAT)|[arxiv](https://arxiv.org/abs/2002.08264)|graph|
 |2019/11/12|Shion Honda|SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery|[pytorch](https://github.com/DSPsleeporg/smiles-transformer)|[arxiv](https://arxiv.org/abs/1911.04738)|string|
-|2021/06/17|Jerret Ross|Do Large Scale Molecular Language Representations Capture Important Structural Information? (MolFormer)|pytorch|[arxiv](https://arxiv.org/abs/2106.09553)|string|
+|2021/06/17|Jerret Ross|Do Large Scale Molecular Language Representations Capture Important Structural Information? (MolFormer)|NA|[arxiv](https://arxiv.org/abs/2106.09553)|string|
+
+Format inspired by the [SegLoss repo by JunMa11](https://github.com/JunMa11/SegLoss)
